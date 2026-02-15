@@ -46,4 +46,4 @@ app.*.map.json
 /android/app/google-services*
 .firebaserc
 firebase.json
-/dataconnect
+/dataconnect/
